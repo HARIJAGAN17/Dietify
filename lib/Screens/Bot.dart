@@ -3,7 +3,11 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:http/http.dart' as http;
 import 'Button.dart';
-const apikey = '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';
+
+const apikey = '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';
+    //'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';
+
+
 
 class ChatGPTScreen extends StatefulWidget {
   final String chatResponse;
