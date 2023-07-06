@@ -21,7 +21,7 @@ class _CalculatorState extends State<Calculator> {
             begin: Alignment.centerLeft,
             end: Alignment.centerRight,
             colors: [
-              Color(0xFF3A1C71),
+              Color(0xFF3A1C72),
               Color(0xFFD76D77),
               Color(0xFFFFAF7B),
             ],
