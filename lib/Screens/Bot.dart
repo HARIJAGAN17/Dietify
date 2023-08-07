@@ -113,7 +113,7 @@ class _ChatGPTScreenState extends State<ChatGPTScreen> {
                           style: GoogleFonts.robotoFlex(
                               fontSize: 25,
                               fontWeight: FontWeight.w600,
-                              color: Colors.white),
+                              color: Colors.white60),
                         ),
                       ],
                     ),

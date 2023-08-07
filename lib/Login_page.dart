@@ -58,7 +58,7 @@ class _LoginScreenState extends State<LoginScreen> {
                             elevation: 8.0,
                             shape: CircleBorder(),
                             child: CircleAvatar(
-                              radius: 110.0,
+                              radius: 109.0,
                               backgroundColor:
                                   Colors.grey[100]?.withOpacity(0.16),
                               child: CircleAvatar(
